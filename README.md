@@ -2,8 +2,8 @@
 
 Here are Ansible playbooks and related support files for hardening servers running RHEL 7, CentOS 7 and related distros. See my relevant blog posts for more information:
 
-* New blog post describing the [automated process for CentOS 7 server hardening](https://cetre.co.uk/blog/ansible-playbooks-for-security-hardening-on-centos-7-servers/) using these Ansible playbooks.
-* My original blog post with the [manual process for security hardening CentOS 7](https://cetre.co.uk/blog/security-hardening-on-centos-7-red-hat-enterprise-linux-7-amazon-linux/) and related Linux distros.
+* New blog post describing the [automated process for CentOS 7 server hardening](https://blog.cetre.co.uk/ansible-playbooks-for-security-hardening-on-centos-7-servers/) using these Ansible playbooks.
+* My original blog post with the [manual process for security hardening CentOS 7](https://blog.cetre.co.uk/security-hardening-on-centos-7-red-hat-enterprise-linux-7-amazon-linux/) and related Linux distros.
 
 ## Important notes
 
